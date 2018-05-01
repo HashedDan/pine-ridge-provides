@@ -1,0 +1,3 @@
+targets:
+  PRP: shared-us-west-2/cjgo7q57i2des01134cuwte0a
+  default: PRP
